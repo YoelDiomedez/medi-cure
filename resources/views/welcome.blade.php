@@ -85,7 +85,7 @@
                 </div>
                 <div class="links">
                     <a href="https://yoeldiomedez.github.io/" target="_blank">Author</a>
-                    <a href="https://github.com/YoelDiomedez/medicure" target="_blank">GitHub</a>
+                    <a href="https://github.com/YoelDiomedez/medi-cure" target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
