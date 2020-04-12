@@ -31,6 +31,6 @@ class AddPatientIdAtUsers extends Migration
      */
     public function down()
     {
-        //
+        Schema::disableForeignKeyConstraints();
     }
 }
