@@ -25,9 +25,9 @@
     <div class="form-actions text-center">
         <button type="submit" class="btn blue uppercase btn-block">Ingresar <i class="icon-login"></i></button>
     </div>
-    <div class="create-account">
+    <div class="create-account bg-dark">
         <p>
-            <a href="{{ route('password.request') }}" id="forget-password">
+            <a href="{{ route('password.request') }}" id="forget-password" class="bg-font-dark">
                 ¿Olvidate tu Contraseña?
             </a>
         </p>
